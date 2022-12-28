@@ -3,7 +3,7 @@ I'm a skilled Front-End Developer from Indonesia with a strong foundation in HTM
 <!-- 🔭 I’m currently working on <br> -->
 <!-- 👯 I’m looking to collaborate on <br> -->
 <!-- 🤝 I’m looking for help with <br> -->
-🌱 I’m currently learning **JavaScript** and **React JS** <br>
+🌱 I’m currently learning **JavaScript** and **React** <br>
 <!-- 💬 Ask me about <br> -->
 <!-- ⚡ Fun fact <br> -->
 👨‍💻 All of my projects are available at [https://biandamara.netlify.app/](https://biandamara.netlify.app/)
