@@ -1,5 +1,5 @@
 # Hi 👋, I'm Bian Damara
-I'm a skilled Front-End Developer from Indonesia with a strong foundation in HTML, CSS, and JavaScript. I am passionate about building intuitive and visually appealing user interfaces that enhance the user experience. In my free time, I enjoy staying up-to-date on the latest technology trends and participating in coding challenges.
+I'm a skilled Front-End Developer from Indonesia with a strong foundation in HTML, CSS, and JavaScript. I'm passionate about building intuitive and visually appealing user interfaces that enhance the user experience. In my free time, I enjoy staying up-to-date on the latest technology trends and participating in coding challenges.
 
 🔭 I’m currently working on my project <br>
 <!-- 👯 I’m looking to collaborate on <br> -->
